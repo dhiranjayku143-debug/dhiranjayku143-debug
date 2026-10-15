@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dhiranjay Kumar 👋
 
-<!--
-**dhiranjayku143-debug/dhiranjayku143-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student (2023-2027) at Jharkhand Rai University, Ranchi.
+Aspiring Software Developer | Full-Stack Web Developer | Cyber Security enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C, Java, JavaScript
+- **Web:** Django, HTML, CSS, Bootstrap
+- **Databases:** MySQL, SQLite, MongoDB
+- **Data/ML:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Honeypot: A Web-based NIDS** (Python, Django, MySQL): detects and logs suspicious network activity
+- **RideHub: Vehicle Booking Portal** (Django, SQLite, Bootstrap): vehicle search, booking and price calculation
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/dhiranjay-kumar-8532b2291)
